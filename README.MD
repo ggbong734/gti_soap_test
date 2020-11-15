@@ -35,19 +35,19 @@ Only bubble size was deemed to be practical as it was relatively simple to keep 
 
 Variables used in lab test are:
 
-<p align="center"><img src="images/lab_variables.jpg" height= "130"/></p>
+<p align="center"><img src="images/lab_variables.jpg" height= "115"/></p>
 
 Leak flow rate was the primary independent variable. We also wanted to determine impact of different soap solutions on bubble characteristics.
 
 Here is the experimental setup for our lab testing:
 
-<p align="center"><img src="images/setup.jpg" height= "250"/></p>
+<p align="center"><img src="images/setup.jpg" height= "270"/></p>
 
 ### Lab test results
 
 Key takeaway from lab testing is that there is a progressive change in bubble behavior as leak flow rate increases. There are 4 distinct phases (i.e. foams, small bubbles, large bubbles, soap solution blown off) which can be used to categorize bubble behavior. 
 
-<p align="center"><img src="images/lab_takeaway.jpg" height= "270"/></p>
+<p align="center"><img src="images/lab_takeaway.jpg" height= "285"/></p>
 
 Soap solution did not affect bubble behavior drastically (chart not shown).
 
@@ -108,4 +108,4 @@ A utility company interested in implementing the proposed soap test method can e
 <p align="center"><img src="images/4step.jpg" height= "300"/></p>
 
 ### Credits
-The study and report was completed by Gerry Bong, Jarrod Bullen, and Chris Moore. 
+The study and report were completed by Gerry Bong, Jarrod Bullen, and Chris Moore. 
