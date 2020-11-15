@@ -19,7 +19,7 @@ Soap test has been used by gas utilities to grade leaks on aboveground facilitie
   <img src="images/soap_bubble.jpg" height ="180" /> 
 </p>
 
-<p align="center"><img src="images/leak_classification.png" height= "150"/></p>
+<p align="center"><img src="images/leak_classification.png" height= "170"/></p>
 
 ### Metric for classifying soap test
 
@@ -35,13 +35,13 @@ Only bubble size was deemed to be practical as it was relatively simple to keep 
 
 Variables used in lab test are:
 
-<p align="center"><img src="images/lab_variables.jpg" height= "115"/></p>
+<p align="center"><img src="images/lab_variables.jpg" height= "125"/></p>
 
 Leak flow rate was the primary independent variable. We also wanted to determine impact of different soap solutions on bubble characteristics.
 
 Here is the experimental setup for our lab testing:
 
-<p align="center"><img src="images/setup.jpg" height= "270"/></p>
+<p align="center"><img src="images/setup.jpg" height= "300"/></p>
 
 ### Lab test results
 
@@ -55,41 +55,41 @@ Soap solution did not affect bubble behavior drastically (chart not shown).
 
 A field trial was performed with a host utility company. A total of 47 residential meter set leaks were visited and each one was tested with the soap test method. The actual leak flow rates of the leaks were also measured for verification purposes. 4 categories were used to classify the results. Based on the bubble characteristics, a category was assigned to each leak.
 
-<p align="center"><img src="images/soap_test_categories.png" height= "190"/></p>
+<p align="center"><img src="images/soap_test_categories.png" height= "200"/></p>
 
 And a tree diagram was used to aid in classifying the results: 
 
-<p align="center"><img src="images/tree_diagram.png" height= "340"/></p>
+<p align="center"><img src="images/tree_diagram.png" height= "360"/></p>
 
 And representative flow rate (emission factor) for each category can be derived using population leak rate distribution simulated using historical regional data. The values of the emission factors are depicted by the green dots on the horizontal axis.
 
-<p align="center"><img src="images/distribution_results.png" height= "340"/></p>
+<p align="center"><img src="images/distribution_results.png" height= "360"/></p>
 
 ### Field trial results
 
 The distribution of leak rates measured during the field trial followed a long tail distribution and is consistent with findings from other studies:
 
-<p align="center"><img src="images/distribution.png" height= "260"/></p>
+<p align="center"><img src="images/distribution.png" height= "275"/></p>
 
 We can then plot the measured leak rate versus categories assigned in the field based on the soap test results. In the scatter plot below, points (individual leaks) in the blue boxes mean that they are correctly assigned where as points below or above the boxes are underestimated/overestimated. 
 
-<p align="center"><img src="images/scatter_plot.png" height= "310"/></p>
+<p align="center"><img src="images/scatter_plot.png" height= "325"/></p>
 
 A box plot can be plotted to check how well separated the categories are. Ideally we want good distinction between categories which would allow us to better distinguish small versus large leaks. 
 
-<p align="center"><img src="images/box_plot.png" height= "300"/></p>
+<p align="center"><img src="images/box_plot.png" height= "315"/></p>
 
 We can change the 4 categories into 3 by combining the middle two categories (B and C) together. Doing so, will help improve the separation between categories:
 
-<p align="center"><img src="images/box_plot_3cat.png" height= "300"/></p>
+<p align="center"><img src="images/box_plot_3cat.png" height= "315"/></p>
 
 Additionally, we can compare how the estimated leak rates (emission factors) match with actual leak rate:
 
-<p align="center"><img src="images/barchart.jpg" height= "240"/></p>
+<p align="center"><img src="images/barchart.jpg" height= "255"/></p>
 
 On a side note, we observed a peculiar phenomenon: in some cases, leaks did not produce bubbles even though we could detect natural gas emissions with methane sensors. We initially hypothesized that these leaks were too small to produce bubbles. However, upon plotting the cumulative distribution of leak rates we found that these "no-bubbles" leaks were NOT the smallest in flow rates. There had to be other factors preventing bubble formation. We will explore this further in future phases. 
 
-<p align="center"><img src="images/distribution_no_bubbles.png" height= "300"/></p>
+<p align="center"><img src="images/distribution_no_bubbles.png" height= "315"/></p>
 
 ### Method to reduce uncertainty 
 
@@ -105,7 +105,7 @@ Then based on the true positive and false positive rate for each category, we ca
 
 A utility company interested in implementing the proposed soap test method can employ a 4-step approach to develop their company-specific categories and associated emission factors for characterizing soap test results:
 
-<p align="center"><img src="images/4step.jpg" height= "300"/></p>
+<p align="center"><img src="images/4step.jpg" height= "320"/></p>
 
 ### Credits
 The study and report were completed by Gerry Bong, Jarrod Bullen, and Chris Moore. 
