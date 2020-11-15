@@ -14,7 +14,7 @@ The objective of the project is to develop a method based on soap test to quickl
 
 Soap test has been used by gas utilities to grade leaks on aboveground facilities. Characteristics of bubbles produced during soap test is used as the basis for distinguishing between hazardous and non-hazardous leaks.
 
-<p float="center" align="center">
+<p align="center">
   <img src="images/soap_test.jpg" height="220" />
   <img src="images/soap_bubble.jpg" height ="180" /> 
 </p>
